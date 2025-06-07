@@ -1,6 +1,6 @@
 Welcome to the Prakruti Determination Website! This website is dedicated to helping individuals determine their Prakruti, which refers to the unique constitution of the human body according to Ayurveda, across different aspects.
 
-PRAKRITI DETERMINATION DEMO :-https://himanshu17032002.github.io/Prakriti-Determination-website/
+PRAKRITI DETERMINATION DEMO :-https://prakritidetermination.netlify.app/
 
 ## Introduction
 
